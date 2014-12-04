@@ -1,0 +1,34 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.mhag</groupId>
+    <artifactId>mhag</artifactId>
+    <name>MHAG</name>
+
+    <packaging>war</packaging>
+    <version>1.5-SNAPSHOT</version>
+
+    <properties>
+        <project.build.encoding>UTF-8</project.build.encoding>
+        <spring.version>4.1.2.RELEASE</spring.version>
+        <hibernate.version>4.3.7.Final</hibernate.version>
+    </properties>
+
+    <modules>
+        <module>mhag-core</module>
+        <module>web</module>
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
+    </dependencies>
+
+    <!-- NOTE: build is better run by ant where project management by maven but we need to run some investigations on this -->
+
+</project>
