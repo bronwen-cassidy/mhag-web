@@ -4,7 +4,7 @@
  */
 package org.mhag.sets;
 
-import org.springframework.web.util.JavaScriptUtils;
+//import org.springframework.web.util.JavaScriptUtils;
 
 import java.text.DecimalFormat;
 import java.util.LinkedHashSet;
@@ -42,9 +42,9 @@ public class SavedSet extends DefaultDomainObject implements Comparable<SavedSet
         return setCode;
     }
 
-    public String getEscapedName() {
+    /*public String getEscapedName() {
         return JavaScriptUtils.javaScriptEscape(name);
-    }
+    }*/
 
     public void setSetCode(String setCode) {
         this.setCode = setCode;

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mhag:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mhag-1.5-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mhag:war exploded" />
+    </root>
+  </artifact>
+</component>

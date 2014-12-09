@@ -10,7 +10,7 @@
         <version>1.5-SNAPSHOT</version>
     </parent>
 
-    <artifactId>mhag-core</artifactId>
+    <artifactId>core</artifactId>
     <version>1.5-SNAPSHOT</version>
 
     

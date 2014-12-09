@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14b50cff-af32-4b4b-90bf-98f31c2f39d5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/j2ee.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/mhag_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/mhag_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/mhag_web_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/mhag_web_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loader/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/test/java/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/swing_layout_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/tests.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mhag.iml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/runtime/mhag.jar" afterPath="$PROJECT_DIR$/lib/local-repo/mhag.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/mhag-core/pom.xml" afterPath="$PROJECT_DIR$/core/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/MH_logo.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/MH_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/animated-overlay.gif" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/animated-overlay.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-bg_flat_75_aaaaaa_40x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-bg_flat_75_aaaaaa_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-bg_glass_100_f5f0e5_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-bg_glass_100_f5f0e5_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-bg_glass_25_e4980F_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-bg_glass_25_e4980F_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-bg_glass_70_ede4d4_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-bg_glass_70_ede4d4_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-bg_highlight-hard_100_f4f0ec_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-bg_highlight-hard_100_f4f0ec_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-bg_highlight-hard_65_fee4bd_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-bg_highlight-hard_65_fee4bd_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-bg_highlight-hard_75_f5f5b5_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-bg_highlight-hard_75_f5f5b5_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-bg_inset-soft_100_f4f0ec_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-bg_inset-soft_100_f4f0ec_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-icons_E4980F_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-icons_E4980F_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-icons_cb672b_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-icons_cb672b_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-icons_f08000_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-icons_f08000_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-icons_f35f07_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-icons_f35f07_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-icons_ff7519_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-icons_ff7519_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/images/ui-icons_ffffff_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/images/ui-icons_ffffff_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/jquery-ui-1.10.4.custom.min.css" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/jquery-ui-1.10.4.custom.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/mh4/styles/jquery-ui.custom.css" afterPath="$PROJECT_DIR$/web/src/main/resources/project/mh4/styles/jquery-ui.custom.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/MH_logo.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/MH_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/mhp3.jpg" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/mhp3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/mp3rd.jpg" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/mp3rd.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-bg_diagonals-medium_20_d34d17_40x40.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-bg_diagonals-medium_20_d34d17_40x40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-bg_flat_30_cccccc_40x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-bg_flat_30_cccccc_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-bg_flat_50_5c5c5c_40x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-bg_flat_50_5c5c5c_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-bg_gloss-wave_45_817865_500x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-bg_gloss-wave_45_817865_500x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-bg_gloss-wave_60_fece2f_500x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-bg_gloss-wave_60_fece2f_500x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-bg_gloss-wave_70_ffdd57_500x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-bg_gloss-wave_70_ffdd57_500x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-bg_gloss-wave_90_fff9e5_500x100.jpg" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-bg_gloss-wave_90_fff9e5_500x100.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-bg_highlight-soft_100_feeebd_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-bg_highlight-soft_100_feeebd_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-bg_inset-soft_30_ffffff_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-bg_inset-soft_30_ffffff_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-icons_3d3d3d_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-icons_3d3d3d_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-icons_bd7b00_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-icons_bd7b00_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-icons_d19405_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-icons_d19405_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-icons_eb990f_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-icons_eb990f_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-icons_ed9f26_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-icons_ed9f26_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-icons_fadc7a_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-icons_fadc7a_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/images/ui-icons_ffe180_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/images/ui-icons_ffe180_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/p3/styles/jquery-ui.custom.css" afterPath="$PROJECT_DIR$/web/src/main/resources/project/p3/styles/jquery-ui.custom.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/MH_logo.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/MH_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/lagi.jpg" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/lagi.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/sea-dragon-blue-pattern.jpg" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/sea-dragon-blue-pattern.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-bg_flat_55_fbec88_40x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-bg_flat_55_fbec88_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-bg_glass_75_d0e5f5_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-bg_glass_75_d0e5f5_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-bg_glass_85_dfeffc_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-bg_glass_85_dfeffc_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-bg_inset-hard_100_f5f8f9_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-bg_inset-hard_100_f5f8f9_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-icons_217bc0_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-icons_217bc0_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-icons_2e83ff_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-icons_2e83ff_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-icons_469bdd_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-icons_469bdd_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-icons_6da8d5_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-icons_6da8d5_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-icons_cd0a0a_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-icons_d8e7f3_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-icons_d8e7f3_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/images/ui-icons_f9bd01_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/images/ui-icons_f9bd01_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/tri/styles/jquery-ui.custom.css" afterPath="$PROJECT_DIR$/web/src/main/resources/project/tri/styles/jquery-ui.custom.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/MH_logo.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/MH_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/MH_logo_1.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/MH_logo_1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/mh3g_back.jpg" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/mh3g_back.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/mh3g_background.jpg" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/mh3g_background.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-bg_flat_25_ccccff_40x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-bg_flat_25_ccccff_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-bg_glass_65_ccccff_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-bg_glass_65_ccccff_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-bg_glass_75_71b2e5_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-bg_glass_75_71b2e5_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-bg_glass_75_dadada_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-bg_highlight-soft_75_d063c3_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-bg_highlight-soft_75_d063c3_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-bg_inset-soft_95_fef1ec_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-icons_222222_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-icons_2e83ff_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-icons_2e83ff_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-icons_454545_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-icons_454545_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-icons_888888_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-icons_888888_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/images/ui-icons_cd0a0a_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/trig/styles/jquery-ui.custom.css" afterPath="$PROJECT_DIR$/web/src/main/resources/project/trig/styles/jquery-ui.custom.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/MH_logo.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/MH_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/mh3g_back.jpg" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/mh3g_back.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/mh3g_background.jpg" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/mh3g_background.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/mh3g_bg.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/mh3g_bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-bg_flat_25_ccccff_40x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-bg_flat_25_ccccff_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-bg_glass_65_ccccff_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-bg_glass_65_ccccff_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-bg_glass_75_71b2e5_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-bg_glass_75_71b2e5_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-bg_glass_75_dadada_1x400.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-bg_highlight-soft_75_d063c3_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-bg_highlight-soft_75_d063c3_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-bg_inset-soft_95_fef1ec_1x100.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-icons_222222_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-icons_2e83ff_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-icons_2e83ff_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-icons_454545_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-icons_454545_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-icons_888888_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-icons_888888_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/images/ui-icons_cd0a0a_256x240.png" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/project/triu/styles/jquery-ui.custom.css" afterPath="$PROJECT_DIR$/web/src/main/resources/project/triu/styles/jquery-ui.custom.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/config/context.xml" afterPath="$PROJECT_DIR$/web/src/main/resources/context.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/config/project.properties" afterPath="$PROJECT_DIR$/web/src/main/resources/project.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/ArmorWrapper.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/ArmorWrapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/ArmourSet.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/ArmourSet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/ArmourSetFormController.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/ArmourSetFormController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/Cell.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/Cell.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/CharmPoint.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/CharmPoint.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/CharmSkill.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/CharmSkill.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/DeleteArmourSetController.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/DeleteArmourSetController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/JewelWrapper.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/JewelWrapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/MhagFacade.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/MhagFacade.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/MhagMainFormController.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/MhagMainFormController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/MhagUtils.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/MhagUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/SkillEffect.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/SkillEffect.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/SkillKey.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/SkillKey.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/SkillSearchMultiController.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/SkillSearchMultiController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/TorsoUpSkill.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/TorsoUpSkill.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/UpdateArmourSetController.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/UpdateArmourSetController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/VoteArmourSetController.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/VoteArmourSetController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/admin/LoginController.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/admin/LoginController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/admin/LoginInterceptor.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/admin/LoginInterceptor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/admin/UserInfoInterceptor.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/admin/UserInfoInterceptor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/admin/UserLoginController.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/admin/UserLoginController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/admin/UserLogoutController.java" afterPath="$PROJECT_DIR$/web/src/main/java/org/mhag/admin/UserLogoutController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/DatabaseUtils.java" afterPath="$PROJECT_DIR$/loader/src/main/java/org/mhag/builder/DatabaseUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/LoaderUtils.java" afterPath="$PROJECT_DIR$/loader/src/main/java/org/mhag/builder/LoaderUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/Languages/English/all.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/Languages/English/all.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/Languages/English/components.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/Languages/English/components.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/Languages/English/decorations.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/Languages/English/decorations.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/Languages/English/skill_descriptions.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/Languages/English/skill_descriptions.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/Languages/English/skills.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/Languages/English/skills.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/Languages/Japanese/components.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/Languages/Japanese/components.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/Languages/Japanese/decorations.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/Languages/Japanese/decorations.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/Languages/Japanese/skill_descriptions.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/Languages/Japanese/skill_descriptions.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/Languages/Japanese/skills.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/Languages/Japanese/skills.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/all.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/all.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/arms.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/arms.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/body.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/body.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/components.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/components.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/decorations.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/decorations.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/head.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/head.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/legs.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/legs.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/mh4/armor.dat" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/mh4/armor.dat" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/mh4/armor_item.dat" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/mh4/armor_item.dat" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/mh4/errors.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/mh4/errors.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/mh4/jewel.dat" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/mh4/jewel.dat" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/mh4/jewel_item.dat" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/mh4/jewel_item.dat" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/mh4/skill.dat" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/mh4/skill.dat" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/skills.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/skills.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/builder/data/waist.txt" afterPath="$PROJECT_DIR$/loader/src/main/resources/data/waist.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/ArmourPiece.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/ArmourPiece.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/DataAccessService.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/DataAccessService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/DataAccessor.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/DataAccessor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/DefaultDomainObject.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/DefaultDomainObject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/NotEnoughSkillsException.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/NotEnoughSkillsException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/Page.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/Page.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/PersistenceException.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/PersistenceException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/Rank.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/Rank.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/SavedSet.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/SavedSet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/Serviceable.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/Serviceable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/SetExistsException.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/SetExistsException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/SetSkill.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/SetSkill.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/org/mhag/sets/UserExistsException.java" afterPath="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/UserExistsException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/tests/org/mhag/MhagMainFormControllerTest.java" afterPath="$PROJECT_DIR$/web/test/java/org/mhag/MhagMainFormControllerTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/tests/org/mhag/TestMhagFacade.java" afterPath="$PROJECT_DIR$/web/test/java/org/mhag/TestMhagFacade.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/tests/org/mhag/TestMhagMainFormController.java" afterPath="$PROJECT_DIR$/web/test/java/org/mhag/TestMhagMainFormController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/tests/org/mhag/sets/TestDataAccessor.java" afterPath="$PROJECT_DIR$/web/test/java/org/mhag/sets/TestDataAccessor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/Favicon.ico" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/Favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/applicationContext-jdbc.xml" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/applicationContext-jdbc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/applicationContext.xml" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/applicationContext.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/classes/mhag-views.properties" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/classes/mhag-views.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/admin/managesets.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/admin/managesets.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/admin/reglogin.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/admin/reglogin.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/admin/searchresults.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/admin/searchresults.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/armouropts.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/armouropts.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/armourpanel.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/armourpanel.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/charmpoints.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/charmpoints.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/charmskills.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/charmskills.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/jewels.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/jewels.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/main.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/main.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/options.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/options.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/resistences.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/resistences.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/respanel.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/respanel.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/skilldatalist.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/skilldatalist.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/skillpanel.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/skillpanel.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/skills.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/skills.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/skillsearchpanel.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/skillsearchpanel.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/skillsearchresults.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/skillsearchresults.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/armours/urlbuilder.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/armours/urlbuilder.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/includes.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/includes.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/model.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/model.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/pagination.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/pagination.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/saves/listsets.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/saves/listsets.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/saves/searchresults.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/saves/searchresults.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/saves/searchsets.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/saves/searchsets.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/saves/viewarmourpanel.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/saves/viewarmourpanel.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/jsp/saves/viewset.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/jsp/saves/viewset.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/mhag-servlet.xml" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/mhag-servlet.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/MH3_logo.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/MH3_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/Mhp3rd_logo.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/Mhp3rd_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/Thumbs-down-icon.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/Thumbs-down-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/Thumbs-up-icon.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/Thumbs-up-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/arms.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/arms.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/charm.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/charm.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/chest.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/chest.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/dragon.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/dragon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/fire.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/fire.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/gsweapon.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/gsweapon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/head.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/head.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/hlm.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/hlm.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/ice.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/ice.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/jewel.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/jewel.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/legs.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/legs.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/logo.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/mh3g.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/mh3g.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/mhag.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/mhag.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/mhag_logo.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/mhag_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/monsters/monsters.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/monsters/monsters.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/nav/first.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/nav/first.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/nav/last.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/nav/last.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/nav/next.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/nav/next.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/nav/previous.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/nav/previous.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/talisman.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/talisman.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/thunder.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/thunder.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/torso-up.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/torso-up.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/waist.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/waist.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/water.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/water.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/weapon.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/weapon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/images/weps/great-swords.png" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/images/weps/great-swords.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/index.jsp" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/scripts/functions.js" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/scripts/functions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/scripts/jquery-1.10.2.js" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/scripts/jquery-1.10.2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/scripts/jquery-ui-1.10.4.custom.js" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/scripts/jquery-ui-1.10.4.custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/scripts/jquery-ui-1.10.4.custom.min.js" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/scripts/jquery-ui-1.10.4.custom.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/styles/jquery-ui.custom.css" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/styles/jquery-ui.custom.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/war/styles/style.css" afterPath="$PROJECT_DIR$/web/src/main/webapp/WEB-INF/styles/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/pom.xml" afterPath="$PROJECT_DIR$/web/pom.xml" />
+    </list>
+    <ignored path="mhag-web.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/web/target/" />
+    <ignored path="$PROJECT_DIR$/core/target/" />
+    <ignored path="$PROJECT_DIR$/loader/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mhag-web" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="689">
+              <caret line="34" column="21" selection-start-line="30" selection-start-column="8" selection-end-line="34" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loader/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="455" max-vertical-offset="572">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loader/src/main/java/org/mhag/builder/DatabaseUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="1222">
+              <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1418126815762" expanded="true" signature="1249:1459" placeholder="insert into ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArmourPiece.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/org/mhag/sets/ArmourPiece.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="117" max-vertical-offset="2054">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SavedSet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/org/mhag/sets/SavedSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.1248" vertical-offset="130" max-vertical-offset="1937">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArmourSetFormController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/org/mhag/ArmourSetFormController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="871">
+              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="377" max-vertical-offset="507">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="650">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="286">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="bronwen-cassidy" />
+        <option value="Bronwen Cassidy" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../mhag/pom.xml" />
+        <option value="$PROJECT_DIR$/mhag-core/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/loader/pom.xml" />
+        <option value="$PROJECT_DIR$/loader/src/main/java/org/mhag/builder/DatabaseUtils.java" />
+        <option value="$PROJECT_DIR$/web/pom.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/java/org/mhag/sets/SavedSet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/usr/share/.m2/repository" />
+        <option name="userSettingsFile" value="/usr/share/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1366" />
+    <option name="height" value="716" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers Scope="true" ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="web">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="web">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mhag">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mhag-web">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mhag" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="LayoutCode.rearrangeEntriesXML" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/src/main/resources" />
+      <recent name="$PROJECT_DIR$/web/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/web/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/web/test/java" />
+      <recent name="$PROJECT_DIR$/web/src/main/java/org/mhag" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/runtime/mhag.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14b50cff-af32-4b4b-90bf-98f31c2f39d5" name="Default" comment="" />
+      <created>1417705620632</created>
+      <option name="number" value="Default" />
+      <updated>1417705620632</updated>
+      <workItem from="1417705632670" duration="3429000" />
+      <workItem from="1418059026507" duration="708000" />
+      <workItem from="1418117037916" duration="7697000" />
+      <workItem from="1418136162241" duration="82000" />
+    </task>
+    <task id="LOCAL-00001" summary="Trying to integrate maven then we will move to annotations and hibernate possibly">
+      <created>1417708199089</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1417708199089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11916000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1366" height="716" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2693997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923076" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Trying to integrate maven then we will move to annotations and hibernate possibly" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to integrate maven then we will move to annotations and hibernate possibly" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="689">
+          <caret line="34" column="21" selection-start-line="30" selection-start-column="8" selection-end-line="34" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loader/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="455" max-vertical-offset="572">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loader/src/main/java/org/mhag/builder/DatabaseUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="1222">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1418126815762" expanded="true" signature="1249:1459" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/mhag/sets/ArmourPiece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="117" max-vertical-offset="2054">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/mhag/sets/SavedSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1937">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/org/mhag/ArmourSetFormController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="871">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="377" max-vertical-offset="507">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="650">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="286">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="520">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="286">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="520">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="286">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="286">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.1.2.RELEASE/spring-jdbc-4.1.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1469">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="689">
+          <caret line="34" column="21" selection-start-line="30" selection-start-column="8" selection-end-line="34" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loader/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="572">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loader/src/main/java/org/mhag/builder/DatabaseUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="1222">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1418126815762" expanded="true" signature="1249:1459" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/mhag/sets/ArmourPiece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2054">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/org/mhag/ArmourSetFormController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="871">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="650">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="507">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/org/mhag/sets/SavedSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.1248" vertical-offset="130" max-vertical-offset="1937">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>mhag-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mhag</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>j2ee</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sources/org.springframework.web.servlet-sources-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sources/org.springframework.context.support-sources-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sources/org.springframework.asm-sources-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sources/org.springframework.transaction-sources-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sources/org.springframework.aspects-sources-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sources/org.springframework.beans-sources-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sources/org.springframework.jdbc-sources-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sources/org.springframework.aop-sources-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sources/org.springframework.context-sources-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sources/org.springframework.core-sources-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sources/org.springframework.expression-sources-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sources/org.springframework.web-sources-3.1.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="j2ee">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/j2ee/j2ee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/j2ee/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/j2ee/mysql-connector-java-5.1.22-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

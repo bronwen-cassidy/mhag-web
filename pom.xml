@@ -7,7 +7,7 @@
     <artifactId>mhag</artifactId>
     <name>MHAG</name>
 
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
     <version>1.5-SNAPSHOT</version>
 
     <properties>
@@ -17,8 +17,9 @@
     </properties>
 
     <modules>
-        <module>mhag-core</module>
+        <module>core</module>
         <module>web</module>
+        <module>loader</module>
     </modules>
 
     <dependencies>
@@ -27,7 +28,19 @@
             <artifactId>spring-core</artifactId>
             <version>${spring.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.mhag</groupId>
+            <artifactId>mhag-jar</artifactId>
+            <version>0.1</version>
+        </dependency>
     </dependencies>
+
+    <repositories>
+        <repository>
+            <id>mhag-local-repo</id>
+            <url>file:///home/bcassidy/dev/mhag-web/lib/local-repo/mhag.jar</url>
+        </repository>
+    </repositories>
 
     <!-- NOTE: build is better run by ant where project management by maven but we need to run some investigations on this -->
 
