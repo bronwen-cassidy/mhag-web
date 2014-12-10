@@ -6,8 +6,10 @@ package org.mhag;
 
 import org.apache.commons.collections.CollectionUtils;
 import org.apache.commons.collections.Predicate;
-import org.mhag.sets.Rank;
+import org.mhag.sets.Cell;
+import org.mhag.armour.Rank;
 import org.mhag.sets.SavedSet;
+import org.mhag.skills.SkillKey;
 
 import java.util.*;
 

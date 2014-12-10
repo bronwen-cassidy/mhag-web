@@ -1,4 +1,4 @@
-package org.mhag.sets;
+package org.mhag.armour;
 
 /**
  * Created by bronwen.

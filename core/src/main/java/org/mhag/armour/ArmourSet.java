@@ -2,7 +2,11 @@
  * Copyright (c) Zynap Ltd. 2006
  * All rights reserved.
  */
-package org.mhag;
+package org.mhag.armour;
+
+import org.mhag.ArmorWrapper;
+import org.mhag.skills.CharmSkill;
+import org.mhag.skills.JewelWrapper;
 
 import java.util.List;
 

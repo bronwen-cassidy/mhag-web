@@ -6,6 +6,7 @@ package org.mhag;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+import org.mhag.armour.ArmourPiece;
 import org.mhag.model.Armor;
 import org.mhag.sets.*;
 import org.springframework.util.StringUtils;

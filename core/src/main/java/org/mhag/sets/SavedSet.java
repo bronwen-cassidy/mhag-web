@@ -6,6 +6,9 @@ package org.mhag.sets;
 
 //import org.springframework.web.util.JavaScriptUtils;
 
+import org.mhag.DefaultDomainObject;
+import org.mhag.skills.SetSkill;
+
 import java.text.DecimalFormat;
 import java.util.LinkedHashSet;
 import java.util.List;

@@ -4,6 +4,8 @@
  */
 package org.mhag.sets;
 
+import org.mhag.armour.ArmourPiece;
+
 import java.util.*;
 
 /**

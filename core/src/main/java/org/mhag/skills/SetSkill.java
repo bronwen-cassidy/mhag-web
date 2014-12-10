@@ -2,7 +2,9 @@
  * Copyright (c) Zynap Ltd. 2006
  * All rights reserved.
  */
-package org.mhag.sets;
+package org.mhag.skills;
+
+import org.mhag.DefaultDomainObject;
 
 /**
  * Class or Interface description.

@@ -7,6 +7,8 @@ package org.mhag.sets;
 import com.mysql.jdbc.jdbc2.optional.MysqlConnectionPoolDataSource;
 import org.junit.BeforeClass;
 import org.junit.Test;
+import org.mhag.armour.ArmourPiece;
+import org.mhag.skills.SetSkill;
 
 import java.util.*;
 

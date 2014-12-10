@@ -4,8 +4,11 @@
  */
 package org.mhag;
 
+import org.mhag.armour.ArmourSet;
 import org.mhag.model.*;
-import org.mhag.sets.Rank;
+import org.mhag.armour.Rank;
+import org.mhag.sets.Cell;
+import org.mhag.skills.*;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.util.StringUtils;
 

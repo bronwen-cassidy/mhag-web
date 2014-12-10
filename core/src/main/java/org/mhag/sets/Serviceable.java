@@ -4,11 +4,10 @@
  */
 package org.mhag.sets;
 
-import org.mhag.ArmourSet;
+import org.mhag.armour.ArmourPiece;
 
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 
 /**
  * Class or Interface description.

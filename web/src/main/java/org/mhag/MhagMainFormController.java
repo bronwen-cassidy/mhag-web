@@ -4,9 +4,9 @@
  */
 package org.mhag;
 
-import org.mhag.sets.Page;
-import org.mhag.sets.SavedSet;
-import org.mhag.sets.Serviceable;
+import org.mhag.armour.ArmourSet;
+import org.mhag.sets.*;
+import org.mhag.skills.*;
 import org.springframework.util.StringUtils;
 import org.springframework.web.bind.ServletRequestBindingException;
 import org.springframework.web.bind.ServletRequestUtils;

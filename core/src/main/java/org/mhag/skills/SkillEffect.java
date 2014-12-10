@@ -2,7 +2,7 @@
  * Copyright (c) Zynap Ltd. 2006
  * All rights reserved.
  */
-package org.mhag;
+package org.mhag.skills;
 
 import java.io.Serializable;
 

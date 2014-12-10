@@ -1,7 +1,6 @@
-package org.mhag.sets;
+package org.mhag.armour;
 
 import org.mhag.MhagFacade;
-import org.mhag.model.Mhag;
 import org.springframework.util.StringUtils;
 
 import java.io.Serializable;

@@ -1,6 +1,5 @@
 package org.mhag.builder;
 
-import org.apache.commons.collections.CollectionUtils;
 import org.apache.commons.collections.comparators.ComparatorChain;
 import org.apache.commons.lang.math.NumberUtils;
 import org.springframework.util.StringUtils;
@@ -17,7 +16,8 @@ public class LoaderUtils {
     public static void main(String[] args) throws Exception {
         new LoaderUtils().loadArmour();
         //System.out.println("##########################################");
-        //new LoaderUtils().charms();
+        // todo determine why we did this one at a time before
+        new LoaderUtils().charms();
     }
 
     private void charms() {
@@ -281,7 +281,7 @@ public class LoaderUtils {
             @Override
             public int compare(List<String> o1, List<String> o2) {
                 Integer a = pieceMapping.get(o1.get(4));
-                Integer b = pieceMapping.get(o1.get(4));
+                Integer b = pieceMapping.get(o2.get(4));
                 return a.compareTo(b);
             }
         });

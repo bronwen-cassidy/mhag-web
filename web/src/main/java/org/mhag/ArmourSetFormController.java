@@ -7,6 +7,7 @@ package org.mhag;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.mhag.sets.*;
+import org.mhag.skills.SetSkill;
 import org.springframework.web.bind.ServletRequestUtils;
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;

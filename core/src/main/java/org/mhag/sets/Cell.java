@@ -2,7 +2,9 @@
  * Copyright (c) Zynap Ltd. 2006
  * All rights reserved.
  */
-package org.mhag;
+package org.mhag.sets;
+
+import org.mhag.MhagFacade;
 
 /**
  * Class or Interface description.

@@ -14,6 +14,9 @@ package org.mhag;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
+import org.mhag.armour.ArmourSet;
+import org.mhag.sets.Cell;
+import org.mhag.skills.JewelWrapper;
 
 import java.util.List;
 import java.util.Map;
